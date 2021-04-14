@@ -1,6 +1,6 @@
 Resolución de ejercicio propuesto en clase:
 
-Si yo tengo dos dados (1-6), y hago 10 lanzamientos cual es el vavlor de la sumatoria que mas frecuencia tenga.
+Si yo tengo dos dados (1-6), y hago 10 lanzamientos cual es el valor de la sumatoria que mas frecuencia tenga.
 
 Desarrollar una aplicación en cualquier lenguaje que me genere un histograma con el numero de ocurrencias de la sumatoria, teniendo diferentes escenarios de lanzamiento.
 
